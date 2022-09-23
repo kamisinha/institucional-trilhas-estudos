@@ -4,7 +4,7 @@
 
 Variáveis armazenam informações, como números ou strings. Aprenda por que as variáveis são úteis, como são criadas e pratique seu uso.
 
-[Site Exemplo](https://google.com.br) | [Site Exemplo 2](https://google.com.br) 
+[O que são e como funcionam](https://www.explorandoti.com.br/o-que-sao-variaveis-e-como-funcionam-no-python-3/) | [Tipos de Variáveis](https://pythonacademy.com.br/blog/tipos-de-variaveis-no-python) | 
 
 ## Arrays (Matriz)
 
